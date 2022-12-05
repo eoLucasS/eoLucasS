@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" target="_blank"></a>
   <a href="https://github.com/eoLucasS" target="_blank"><img src="https://aleen42.github.io/badges/src/photoshop.svg" target="_blank"></a>
-  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
+  <a href="https://www.kali.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
@@ -30,7 +30,6 @@
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucaslopesdasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/eoLucasS114" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.kali.org" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" target="_blank"></a>
 
 </a>
 </p>
