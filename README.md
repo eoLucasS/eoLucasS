@@ -18,6 +18,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://aleen42.github.io/badges/src/photoshop.svg" target="_blank"></a>
+  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
