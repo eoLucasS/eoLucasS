@@ -43,6 +43,13 @@
   <img src="https://github.com/eoLucasS/eoLucasS/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+<h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discord.com/users/306164435955875840">
+       <img title="Lucas Lopes" alt="Lucas Lopes" src="https://discord.c99.nl/widget/theme-4/306164435955875840.png"/>
+    </a>
+</p>
+
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
@@ -51,10 +58,6 @@
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eoLucasS&show_icons=true&locale=en&layout=compact&theme=vue-dark&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
 </p> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
