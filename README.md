@@ -67,7 +67,12 @@
 <br>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eoLucasS&show_icons=true&locale=en&layout=compact&theme=vue-dark&line_height=0" />
+  <img  src = "https://github-readme-stats.vercel.app/api?username=eoLucasS&&show_icons=true&theme=vue-dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=eoLucasS&&layout=compact&langs_count=7&theme=vue-dark"/>
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eoLucasS&&show_icons=true&locale=en&layout=compact&theme=vue-dark&line_height=0" />
 </p> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
