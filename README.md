@@ -53,8 +53,8 @@
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.com/users/306164435955875840">
-       <img title="Lucas Lopes" alt="Lucas Lopes" src="https://discord.c99.nl/widget/theme-4/306164435955875840.png"/>
+    <a href="https://discord.com/users/1061061379773181953">
+       <img title="Lucas Lopes" alt="Lucas Lopes" src="https://discord.c99.nl/widget/theme-4/1061061379773181953.png"/>
     </a>
 </p>
 
