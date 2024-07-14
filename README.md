@@ -33,9 +33,7 @@ $$$$$$$$\\$$$$$$\  \$$$$$$$\\$$$$$$$ |$$$$$$$  |      $$$$$$$$\\$$$$$$  |$$$$$$$
 Olá! Sou o Lucas, de São Paulo, Brasil. Sou apaixonado por computadores desde muito jovem e me interessei por programação no dia em que descobri que poderia fazer meus próprios sites. Hoje, sou desenvolvedor Web na parte de Front-End, além de ser Hacker ético, certificado pelo Técnicas de Invasão. Nos últimos meses, começei a estudar um curso pela Desec Security e procuro cada vez mais me aprofundar nessa área de hacking ético. Você pode conferir mais sobre minha experiência e projetos que fiz em meu Currículo e Portifólio no GitHub. Alguns dos projetos mais recentes em que trabalhei estão listados na Página de Projetos.
 </p>   -->
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack<img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
   <a href="https://www.java.com/">
